@@ -5,6 +5,9 @@
   - vega-lite
   - table
   - plotly  
+  - markdow
+  - katex
+  - code 
 - ui
 - markdown
 - inspector
