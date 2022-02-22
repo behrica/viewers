@@ -2,6 +2,9 @@
 
 - view
 - viewer
+  - vega-lite
+  - table
+  - plotly  
 - ui
 - markdown
 - inspector
